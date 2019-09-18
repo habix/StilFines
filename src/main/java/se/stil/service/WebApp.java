@@ -1,4 +1,4 @@
-package se.stil.web;
+package se.stil.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
